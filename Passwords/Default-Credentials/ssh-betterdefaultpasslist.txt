@@ -31,7 +31,7 @@ device:apc
 eurek:eurek
 netscreen:netscreen
 admin:avocent
-root:linux
+root:linu
 sconsole:12345
 root:5up
 cirros:cubswin:)
